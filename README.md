@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
@@ -58,9 +58,3 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoftsqlserver logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/KevinorJG/KevinorJG/output/snake.svg" alt="Snake animation" />
-
-###
